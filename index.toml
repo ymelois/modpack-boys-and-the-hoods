@@ -9,10 +9,6 @@ file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
-file = "config/sliceanddice-common.toml"
-hash = "e14bf3f84b4bde50b31b44233531b03f994b962c6cba93a4e5e7e2976d8a0830"
-
-[[files]]
 file = "defaultconfigs/ftbranks/ranks.snbt"
 hash = "b2a665d717f847be999bdf72075bf7ce94e849bad64afa2a07499c761e2e850e"
 
