@@ -1,0 +1,11 @@
+.jj/
+
+.direnv/
+.env
+.envrc
+.envrc.local
+
+flake.lock
+flake.nix
+
+README.md

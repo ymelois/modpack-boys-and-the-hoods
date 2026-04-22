@@ -1,0 +1,6 @@
+*.zip
+*.mrpack
+
+.direnv/
+.env
+.envrc.local
