@@ -5,6 +5,21 @@ file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
@@ -42,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
 metafile = true
 
 [[files]]
