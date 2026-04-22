@@ -5,6 +5,21 @@ file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
