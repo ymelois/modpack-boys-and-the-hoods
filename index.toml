@@ -97,3 +97,12 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "9b5c1f39a9069b8711dbed876423ea3de97fa70e69e3d615ab8482aa7aa1bb38"
+
+[[files]]
+file = "resourcepacks/computer-craft-recreated.pw.toml"
+hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true
