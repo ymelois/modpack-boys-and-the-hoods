@@ -17,6 +17,10 @@ file = "defaultconfigs/ftbranks/ranks.snbt"
 hash = "b2a665d717f847be999bdf72075bf7ce94e849bad64afa2a07499c761e2e850e"
 
 [[files]]
+file = "icon.png"
+hash = "3b92a538a012d90a82eb4a741ef813c8128e29d60553b839f662dea2d763fcfd"
+
+[[files]]
 file = "kubejs/server_scripts/cc_recipes.js"
 hash = "9ca12f4f4d3ddb2b74caf1a563a79edc293bc0a24aeb44e973326deecf52aa05"
 
