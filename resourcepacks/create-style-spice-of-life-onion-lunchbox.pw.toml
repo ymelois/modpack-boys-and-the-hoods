@@ -1,0 +1,13 @@
+name = "Create Style Spice of Life Onion Lunchbox"
+filename = "Creatified SOL Onion 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lYAtxeS1/versions/LObNtbYW/Creatified%20SOL%20Onion%201.0.zip"
+hash-format = "sha512"
+hash = "9f56e4e8616f10e829c4320786eaeee95feff4c4e16df17aec0f8189227525c0c4879232763c0041db441db19bdab8707497d335a5866b7b1dc58204ad64646c"
+
+[update]
+[update.modrinth]
+mod-id = "lYAtxeS1"
+version = "LObNtbYW"

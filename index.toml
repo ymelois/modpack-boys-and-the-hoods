@@ -21,8 +21,16 @@ file = "icon.png"
 hash = "3b92a538a012d90a82eb4a741ef813c8128e29d60553b839f662dea2d763fcfd"
 
 [[files]]
+file = "kubejs/client_scripts/hide_solonion_items.js"
+hash = "02b677976d9e300a9a385b0d7d1e4aadc37ffa440f4e618a632bbc1b1edb0a50"
+
+[[files]]
 file = "kubejs/server_scripts/cc_recipes.js"
 hash = "9ca12f4f4d3ddb2b74caf1a563a79edc293bc0a24aeb44e973326deecf52aa05"
+
+[[files]]
+file = "kubejs/server_scripts/solonion_recipes.js"
+hash = "ce0014f1b2426e0bc18f8226e9208e3e0465405486108ff8c30697d73c0e93f2"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -72,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
 metafile = true
 
 [[files]]
@@ -200,12 +213,22 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "6d22056366c7d5e3a8a79a8549a4b7209702d021590d8b3003de525f1bf29a63"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "9b5c1f39a9069b8711dbed876423ea3de97fa70e69e3d615ab8482aa7aa1bb38"
+hash = "80afc2a993121cb48c48fa36a4f2bb83182f25a328fc135904e7945194c44267"
 
 [[files]]
 file = "resourcepacks/computer-craft-recreated.pw.toml"
 hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-spice-of-life-onion-lunchbox.pw.toml"
+hash = "d07819a44ced924fbcfd7c66cce0a4864145f7fa2da6eded44d44c91a4e452ba"
 metafile = true
 
 [[files]]
