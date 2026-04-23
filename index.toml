@@ -281,6 +281,11 @@ hash = "02ad58d37ef1644a572143194aaeab37a0d685977e6a27a168cec3058dfdec74"
 metafile = true
 
 [[files]]
+file = "mods/enderpearl-backport.pw.toml"
+hash = "58413c553a40461ed11843ef58f625fa57d129dc9ae04209528e190c561c677c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
