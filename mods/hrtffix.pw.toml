@@ -1,0 +1,13 @@
+name = "HRTF Fix"
+filename = "hrtffix-neoforge-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y3o9dZWX/versions/u9IGJlCI/hrtffix-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "c5864752c67c1894d58b1f11d427f36292ba80b9bd105a1ddf0f076cc08c0122117ede14e5b24cdd8973441570470e31265d2cb4442e534e1614af659fee0c12"
+
+[update]
+[update.modrinth]
+mod-id = "Y3o9dZWX"
+version = "u9IGJlCI"
