@@ -1,0 +1,59 @@
+{
+  "minecraft:golden_pickaxe": {
+    "durability": 510,
+    "equipment_slots": {
+      "mainhand": [
+        { "attribute": "minecraft:generic.attack_damage", "action": "add", "amount": 3.0, "operation": "add_value" },
+        { "attribute": "minecraft:generic.attack_speed", "action": "add", "amount": -2.8, "operation": "add_value" }
+      ]
+    },
+    "mining": [
+      { "speed": 8.0, "tier": "diamond" }
+    ]
+  },
+  "minecraft:golden_sword": {
+    "durability": 510,
+    "equipment_slots": {
+      "mainhand": [
+        { "attribute": "minecraft:generic.attack_damage", "action": "add", "amount": 6.0, "operation": "add_value" },
+        { "attribute": "minecraft:generic.attack_speed", "action": "add", "amount": -2.4, "operation": "add_value" }
+      ]
+    }
+  },
+  "minecraft:golden_axe": {
+    "durability": 510,
+    "equipment_slots": {
+      "mainhand": [
+        { "attribute": "minecraft:generic.attack_damage", "action": "add", "amount": 9.0, "operation": "add_value" },
+        { "attribute": "minecraft:generic.attack_speed", "action": "add", "amount": -3.1, "operation": "add_value" }
+      ]
+    },
+    "mining": [
+      { "speed": 8.0, "tier": "diamond" }
+    ]
+  },
+  "minecraft:golden_shovel": {
+    "durability": 510,
+    "equipment_slots": {
+      "mainhand": [
+        { "attribute": "minecraft:generic.attack_damage", "action": "add", "amount": 3.5, "operation": "add_value" },
+        { "attribute": "minecraft:generic.attack_speed", "action": "add", "amount": -3.0, "operation": "add_value" }
+      ]
+    },
+    "mining": [
+      { "speed": 8.0, "tier": "diamond" }
+    ]
+  },
+  "minecraft:golden_hoe": {
+    "durability": 510,
+    "equipment_slots": {
+      "mainhand": [
+        { "attribute": "minecraft:generic.attack_damage", "action": "add", "amount": 0.0, "operation": "add_value" },
+        { "attribute": "minecraft:generic.attack_speed", "action": "add", "amount": -1.0, "operation": "add_value" }
+      ]
+    },
+    "mining": [
+      { "speed": 8.0, "tier": "diamond" }
+    ]
+  }
+}
