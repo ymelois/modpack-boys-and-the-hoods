@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ftblibrary-client.snbt"
-hash = "354510208d97ce0322967bd183df0eb2a1acb45ef2055e4d94ed2f3faec9aada"
+file = "config/emi.css"
+hash = "da0c0f9b567f8e32d1cb150b1fd6ec710d03e1d314ad3e03a751b0f0cf4f7148"
 
 [[files]]
-file = "config/jei/jei-client.ini"
-hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
+file = "config/ftblibrary-client.snbt"
+hash = "354510208d97ce0322967bd183df0eb2a1acb45ef2055e4d94ed2f3faec9aada"
 
 [[files]]
 file = "config/paxi/datapacks/gold-tier/data/bath/item_attributes/gold_tools.json"
@@ -252,6 +252,26 @@ hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/endercon.pw.toml"
 hash = "02ad58d37ef1644a572143194aaeab37a0d685977e6a27a168cec3058dfdec74"
 metafile = true
@@ -297,6 +317,11 @@ hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
 file = "mods/hrtffix.pw.toml"
 hash = "2b740943099ef1c80504c5cdba39d5f9554c811e62e5e9e43b6754cec7291869"
 metafile = true
@@ -329,11 +354,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
@@ -449,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
 metafile = true
 
 [[files]]
