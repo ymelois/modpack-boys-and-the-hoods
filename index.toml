@@ -9,6 +9,18 @@ file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
+file = "config/paxi/datapacks/phantom-rebalance/data/bath/neoforge/biome_modifier/phantoms_in_end.json"
+hash = "ffa8aac8dc60dc80c3cc55a08fbfd80c79d782e6f9defd22025b72b647bad1e1"
+
+[[files]]
+file = "config/paxi/datapacks/phantom-rebalance/pack.mcmeta"
+hash = "24f330808c658368ec75dfe2ab3f4533ddd6a97032066b8ba7e570555fe083f0"
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+hash = "b967664074ccf22b83c34c202b032477facda074b756add3e3b6020c8b59f93f"
+
+[[files]]
 file = "defaultconfigs/ftbranks/ranks.snbt"
 hash = "b2a665d717f847be999bdf72075bf7ce94e849bad64afa2a07499c761e2e850e"
 
@@ -239,6 +251,16 @@ hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
+metafile = true
+
+[[files]]
 file = "mods/rabbit-pathfinding-fix.pw.toml"
 hash = "010b560f16fe2464ba0adb88e813a49f95eaf188e3958047a707bb7cc82d8782"
 metafile = true
@@ -286,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
