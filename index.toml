@@ -149,6 +149,10 @@ file = "kubejs/server_scripts/cc_recipes.js"
 hash = "9ca12f4f4d3ddb2b74caf1a563a79edc293bc0a24aeb44e973326deecf52aa05"
 
 [[files]]
+file = "kubejs/server_scripts/crushing_diamond_ore_fix.js"
+hash = "35cb9390d2e91852a97351156fcb1a1e4f74c0fbd9bd886865718bd494536d7f"
+
+[[files]]
 file = "kubejs/server_scripts/no_crop_trample.js"
 hash = "ce074df6841eb9431fc35c0ff3f2de77076d2d08c2e42b2c235f4eec79be5a8a"
 
