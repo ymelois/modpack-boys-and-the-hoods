@@ -1,2 +1,2 @@
-resourcePacks:["vanilla","mod_resources","file/Computer Craft Recreated v1.2.zip","file/Creatified SOL Onion 1.0.zip"]
+resourcePacks:["vanilla","mod_resources","file/Computer Craft Recreated v1.2.zip","file/Creatified SOL Onion 1.0.zip","file/cubic-sun-moon-v1.8.5.zip"]
 incompatibleResourcePacks:["file/Creatified SOL Onion 1.0.zip"]

@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "80afc2a993121cb48c48fa36a4f2bb83182f25a328fc135904e7945194c44267"
+hash = "d5d9d6098668f3641fd7392553758f3f61f53ceadb565847703d2b4e11f2e22b"
 
 [[files]]
 file = "resourcepacks/computer-craft-recreated.pw.toml"
@@ -336,6 +336,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-style-spice-of-life-onion-lunchbox.pw.toml"
 hash = "d07819a44ced924fbcfd7c66cce0a4864145f7fa2da6eded44d44c91a4e452ba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
 metafile = true
 
 [[files]]
