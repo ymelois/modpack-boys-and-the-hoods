@@ -436,6 +436,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
