@@ -50,6 +50,16 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether-height.pw.toml"
+hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "e2fa0a0c652d1a4cdec2ecc122c968c2a4b1cb36c2cdd874e10d8b04edb737fa"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -117,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
+metafile = true
+
+[[files]]
+file = "mods/endercon.pw.toml"
+hash = "02ad58d37ef1644a572143194aaeab37a0d685977e6a27a168cec3058dfdec74"
 metafile = true
 
 [[files]]
