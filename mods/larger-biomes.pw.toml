@@ -1,0 +1,13 @@
+name = "Larger biomes"
+filename = "larger-biomes-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ky9qVx8u/versions/aggQncMa/larger-biomes-1.0.jar"
+hash-format = "sha512"
+hash = "f794ab3d2f758cee769daf144fcaeeb6803fbddfb8fcce3df71d6910d70ad0e1742db16598f7c199107af6c20a1b1d676c13f35354794f91520eb2431c120566"
+
+[update]
+[update.modrinth]
+mod-id = "Ky9qVx8u"
+version = "aggQncMa"
