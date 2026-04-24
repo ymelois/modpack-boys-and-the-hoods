@@ -9,6 +9,10 @@ file = "config/ftblibrary-client.snbt"
 hash = "354510208d97ce0322967bd183df0eb2a1acb45ef2055e4d94ed2f3faec9aada"
 
 [[files]]
+file = "config/paxi/datapacks/gold-tier/data/bath/item_attributes/gold_armor.json"
+hash = "b583f5196e6df55979410e8bc4d9525eb88e916b7c99730047df040dd9b9c394"
+
+[[files]]
 file = "config/paxi/datapacks/gold-tier/data/bath/item_attributes/gold_tools.json"
 hash = "8dab9d0a4c3f410b5f0a02d0a9c508faaea76e913829e23d918b9d0125718664"
 
