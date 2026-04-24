@@ -515,6 +515,11 @@ hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "113988ed5fa0ab2b2fbe56041852290579abc57db5f828a4c570acd4be1204e6"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
