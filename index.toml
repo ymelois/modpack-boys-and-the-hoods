@@ -305,6 +305,10 @@ file = "icon.png"
 hash = "3b92a538a012d90a82eb4a741ef813c8128e29d60553b839f662dea2d763fcfd"
 
 [[files]]
+file = "kubejs/client_scripts/hide_copper_nugget.js"
+hash = "528e52a37a2794c14df06b23ce77188e58902d0fb8a63eeb405f65aea37b66ac"
+
+[[files]]
 file = "kubejs/client_scripts/hide_solonion_items.js"
 hash = "02b677976d9e300a9a385b0d7d1e4aadc37ffa440f4e618a632bbc1b1edb0a50"
 
@@ -323,6 +327,10 @@ hash = "ce074df6841eb9431fc35c0ff3f2de77076d2d08c2e42b2c235f4eec79be5a8a"
 [[files]]
 file = "kubejs/server_scripts/solonion_recipes.js"
 hash = "ce0014f1b2426e0bc18f8226e9208e3e0465405486108ff8c30697d73c0e93f2"
+
+[[files]]
+file = "kubejs/server_scripts/unify_copper_nugget.js"
+hash = "7de9bd7ccd9601029ca6312f385c5293b73d7905328af709da3dfe8e23e949f5"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
