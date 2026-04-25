@@ -290,6 +290,11 @@ hash = "58413c553a40461ed11843ef58f625fa57d129dc9ae04209528e190c561c677c"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
@@ -390,8 +395,18 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "c6255e3933c0916746e8b3e9be3be4734093ae2259c572c117b52130d2aab62e"
 metafile = true
 
 [[files]]
@@ -407,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
 metafile = true
 
 [[files]]
