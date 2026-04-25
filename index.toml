@@ -317,6 +317,10 @@ file = "kubejs/server_scripts/cc_recipes.js"
 hash = "9ca12f4f4d3ddb2b74caf1a563a79edc293bc0a24aeb44e973326deecf52aa05"
 
 [[files]]
+file = "kubejs/server_scripts/copper_carrot_recipe.js"
+hash = "1b4644592af5285552eba082fdd158f08d3e312ad09ca1813ed2f53f2112bec4"
+
+[[files]]
 file = "kubejs/server_scripts/crushing_diamond_ore_fix.js"
 hash = "35cb9390d2e91852a97351156fcb1a1e4f74c0fbd9bd886865718bd494536d7f"
 
