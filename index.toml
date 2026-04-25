@@ -21,6 +21,166 @@ file = "config/paxi/datapacks/gold-tier/pack.mcmeta"
 hash = "7e6b2660ec6f414fc00b9ba1d0e8a1f61b9a92907da9b59609ad0382aac77db2"
 
 [[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/desert_well.json"
+hash = "cc920d7dbb7eaf752386a0649b143e750b756cb9a728f453d4093c4a20961193"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/ocean_ruin_cold.json"
+hash = "67fccad9d20ac0684f60b4900b6492e0177072c5a058c4203a16276262e97c53"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/ocean_ruin_warm.json"
+hash = "a382b81478157fd911874a86025b9ad22381114c039bccd8aa7717ce20ed0389"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/blocks/copper_ore.json"
+hash = "b2ea32852b66dd736def8e1dab75a1831f4aa5844f655eb6c62411e838350e55"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/blocks/deepslate_copper_ore.json"
+hash = "108f18ab37356db82066e9a15cc6bca58c0fffba0de5070898a6c4a7dd581008"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/blocks/ender_chest.json"
+hash = "0083219d9efababea9c78e038cc511277dcedeb2bb4ad407148df53287bbcb15"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
+hash = "ef960bf2dd38f312c27f8f6bba8ff89445af13daac748ff8d4364ff08d676c93"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/ancient_city.json"
+hash = "c52e779e4ed5a5b98ab32ab4550f1ac89d9762161cc4cefb3fcb9b385442c585"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/ancient_city_ice_box.json"
+hash = "05b438f5751dd7d2417b97929f149faca583949fc01f8a5ca9b8d19295b89272"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_bridge.json"
+hash = "abdbe86b4af5c33cf5808afd00d648997f20426f29c65273fad6d5e4399c6b87"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_hoglin_stable.json"
+hash = "97f31796a2d439a619c4cc12ce101cced9aac7d1c80f435bb527b203fac2f6d6"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_other.json"
+hash = "312616b8baf15c08ade35419e0b9f03eebd4d35fd791351bb28004a7eba37943"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_treasure.json"
+hash = "a8347709ec39cda4768ea071abd22332ecc9a914cc6834975ad40cef476c1243"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/buried_treasure.json"
+hash = "afdf49a3f4dfe93f92f9cd895ee359c08554fd13ccbdbff7f249818ffade8a9a"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/desert_pyramid.json"
+hash = "5a0e2345f12ba154b48e6b18853a52130170caa72b1836e7dba106d80295b88d"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/end_city_treasure.json"
+hash = "6e2d0f0110397db948ffc9719316bd8db9dd56ff4532d0e8bf2f36f0f49e8ba3"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/jungle_temple.json"
+hash = "ac3ad91fb85bb235c0b343d10d7823dd69ba53224ed7592a5e1b5a7dc5c39b1d"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/nether_bridge.json"
+hash = "04c691b656e4a1eed4cce068ba1320a154e06de393d18c2c728f9e452441bd97"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/ruined_portal.json"
+hash = "4c394b96c275f93f43643375f8f817ecf9950317768c2fe4fa3d488e6f7c12b6"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/shipwreck_treasure.json"
+hash = "698c957f29fe3cc5a0f412f769e0be453cc8f0e09752a4ddf34234a9b0b32e88"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/simple_dungeon.json"
+hash = "0071eb47e8e2b658e7a6bee7b4bc81aef212611181d63f136ac4452c33224b0c"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/stronghold_corridor.json"
+hash = "0091081e355e677b1555574f23f26f012f75bf522f67eef714b13169c770d0a1"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json"
+hash = "6d980ae898c3600ba66250f568f4a0ebe7aa66698975c3eeb77be0a747efb425"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_armorer.json"
+hash = "492f45571c169f5f40423c294eac5ff060a709ab5c6b72256ccb6739a5feb2ca"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_cartographer.json"
+hash = "dc0eff769d157a8fbdbd2d9fa7f36f3f70492fb6ee989ccdd2b06fad26b78848"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_plains_house.json"
+hash = "471e715ab575f40ddb4e6cadac00de5406a0bfbf3e746a93655696f98e082524"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_savanna_house.json"
+hash = "ac89bfb0ab1ce1441d56e4b3c846e997f303389bf962fe458cbc841765c30d74"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_taiga_house.json"
+hash = "b4d8dd3e93feafe938edd8e0bb8123738505c705f064e9ea3768dd32c582e78b"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_temple.json"
+hash = "5aaffc92ebbe6f0500610574ab979a119c05307bf5da296361af8a30f4be6d4e"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_toolsmith.json"
+hash = "f84484912a8e7cf1a86475d0f5ea3630828ab4771cc96dfc36c480f666381520"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_weaponsmith.json"
+hash = "382938e311751a7cab39926fa260e544c9a9b74028290d12b4919024e010a466"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/woodland_mansion.json"
+hash = "adb6fe36c8637963134c8e23b16d84b62c208c91c2e42cbb4f79723e25dcd171"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/husk.json"
+hash = "3724286c9fa75c1843b42b079083da1ed44764fe299ec3f274af1e5c1ed73470"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/iron_golem.json"
+hash = "a217a5e9c4cf25e1aae498d3668b1c68caf19d6e137003325d4befb53a96f4ad"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/zombie.json"
+hash = "8a4f2a2d21c2e382b5cceda79b0098b769866b622c396d6114e3199a50ae5512"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/zombie_villager.json"
+hash = "52de9d271f0ded1997a6242ff2e0ffc0048c42ed28840db0f9d549372b25e7e4"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber.json"
+hash = "9ca131a842f62f9e8b347d51e6ca0276e0e0103388f7a516203d3c4025415c71"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber_melee.json"
+hash = "f7f750d2abf20664fa7bc883e17a038114939731a1ca9d2aeff6c1c286e73407"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber_ranged.json"
+hash = "fcb147c658d6046ca4b03c0d19b74a7f9b376a0feca0f914808ba22ce8e3b3f1"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/pack.mcmeta"
+hash = "ded2f52bfef9f2e8d7bafb3022981ed41185fa162d07107797ba6157dd8b208c"
+
+[[files]]
 file = "config/paxi/datapacks/ore-rebalance/data/bath/neoforge/biome_modifier/diamond_in_basalt_deltas.json"
 hash = "3b4372c55d31c18bfebe86eb8d68ab1631d0b3632eac35c94c0c98ed22a7ab50"
 
