@@ -194,7 +194,7 @@
                         "function": "minecraft:set_enchantments"
                       }
                     ],
-                    "name": "minecraft:diamond_helmet"
+                    "name": "minecraft:golden_helmet"
                   }
                 ],
                 "rolls": 1.0
@@ -229,7 +229,7 @@
                         "function": "minecraft:set_enchantments"
                       }
                     ],
-                    "name": "minecraft:diamond_chestplate"
+                    "name": "minecraft:golden_chestplate"
                   }
                 ],
                 "rolls": 1.0

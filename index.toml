@@ -21,6 +21,10 @@ file = "config/paxi/datapacks/gold-tier/pack.mcmeta"
 hash = "7e6b2660ec6f414fc00b9ba1d0e8a1f61b9a92907da9b59609ad0382aac77db2"
 
 [[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/desert_pyramid.json"
+hash = "95e1d87cd2b43c14d566af8f51cf3c8950812bb7039d56a842790bacd068750d"
+
+[[files]]
 file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/desert_well.json"
 hash = "cc920d7dbb7eaf752386a0649b143e750b756cb9a728f453d4093c4a20961193"
 
@@ -109,8 +113,20 @@ file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/st
 hash = "0091081e355e677b1555574f23f26f012f75bf522f67eef714b13169c770d0a1"
 
 [[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/intersection.json"
+hash = "c2ef1d1658b02022117cb3809f64ebfe4d0fa7d136e612828c9e2dde26725a87"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json"
+hash = "2f4d0ccf8700b9383e97bdf8e6cb03a2465b6ae2a563ae644f4f51106f1199bd"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_rare.json"
+hash = "d806be6453f38679f62bf159de5db7696cb5f1782eb144408e64feca2511c037"
+
+[[files]]
 file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json"
-hash = "6d980ae898c3600ba66250f568f4a0ebe7aa66698975c3eeb77be0a747efb425"
+hash = "e47f4f57ef6aa30187533cb9422eea971438caf0f960dd6d6950c5bc190a03b4"
 
 [[files]]
 file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_armorer.json"
@@ -166,15 +182,71 @@ hash = "52de9d271f0ded1997a6242ff2e0ffc0048c42ed28840db0f9d549372b25e7e4"
 
 [[files]]
 file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber.json"
-hash = "9ca131a842f62f9e8b347d51e6ca0276e0e0103388f7a516203d3c4025415c71"
+hash = "15038d8967a996faf2187445db66357c70538ade409ff736dd383e9328e44ecc"
 
 [[files]]
 file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber_melee.json"
-hash = "f7f750d2abf20664fa7bc883e17a038114939731a1ca9d2aeff6c1c286e73407"
+hash = "924c77193dff7c8823a4f7e2220b50f42f05f660696f35e2048902e6b453bfd9"
 
 [[files]]
 file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber_ranged.json"
 hash = "fcb147c658d6046ca4b03c0d19b74a7f9b376a0feca0f914808ba22ce8e3b3f1"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/mage/treasure.json"
+hash = "4e049b5f004e31d5afbcfc423c281ad01e61471d6f923cbaeee981a1cff5b191"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/spire/common.json"
+hash = "bf2864a9e0fcf3280c6d5ae830a7bf8b5e6d2142ccba27197b0a868f91562f7e"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/spire/rare.json"
+hash = "b4df9683c4e551482bd314943f8757c5a9091fb6e05c5a834498259b684d90c2"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/spire/treasure.json"
+hash = "6fbaee09d6c47a4d14c54350cb05d8454c31031de89ae57d601a4ede5a3ba8e6"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/desert/junk.json"
+hash = "06ae505463611c34d9f95264ca6bbafebec4de4f2790bf2253ed608e8a12f785"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/desert/smith/expert.json"
+hash = "8e1e49c5c059932e9b485a93a5c786c205be6d4a226c62577e6632e2b3471c5f"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/desert/smith/novice.json"
+hash = "a062edadc1e5cd4537231488771f6771fce8ecd1ce41909e560c4a7f43f5078d"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/fortified/junk.json"
+hash = "740a5280632a1b79c527a24441e55f2f5be78c44f77fff10dda58032944b8f75"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/fortified/smith/expert.json"
+hash = "73012f0215e1fe34d79fa904cbb467e0b30e1190a6a8bde951dfb09cba251160"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/fortified/smith/novice.json"
+hash = "2d6affb4741341b47e1bca3ee61526e44cf2c8b7e36ea0835dcb3a6311b5a885"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/treasure/diamond.json"
+hash = "b053439fb84e1c630f000597dbadb8e912cc2a663c5c65a7bf20ba95bf19145c"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/tags/item/spire/common_tools.json"
+hash = "cdc441affdd16c83a0f2761ad56f03ddde5606d8461c96990ca46ff62268e056"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/tags/item/spire/diamond.json"
+hash = "ad177f57de2605ce24a33df426944c3cd0c266624a06450f8d045871688110aa"
+
+[[files]]
+file = "config/paxi/datapacks/loot-rebalance/data/terralith/tags/item/spire/rare_tools.json"
+hash = "04c6ff7b0e794ceaec0207d4962f0a73c5db0e24fcffbd537c9cca8846e13fc3"
 
 [[files]]
 file = "config/paxi/datapacks/loot-rebalance/pack.mcmeta"

@@ -163,7 +163,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:diamond_chestplate"
+          "name": "minecraft:golden_chestplate"
         },
         {
           "type": "minecraft:item",
@@ -178,7 +178,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:diamond_axe"
+          "name": "minecraft:golden_axe"
         }
       ],
       "rolls": 1.0
