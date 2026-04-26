@@ -1,7 +1,8 @@
 // Netherite is end-tier in this pack. Nether chests must not drop netherite,
 // but they get a small chance at diamond items, capped well below the vanilla
-// gold drops. One uniform extra pool is added to all bastion and nether tables.
-const NETHER = /^(?=.*(bastion|nether)).+$/;
+// gold drops. Match only chest tables under bastion or nether structures so
+// that block tables like minecraft:blocks/netherrack are not affected.
+const NETHER = /^minecraft:chests\/(bastion|nether).+$/;
 
 LootJS.modifiers((event) => {
     const m = event.addTableModifier(NETHER);
