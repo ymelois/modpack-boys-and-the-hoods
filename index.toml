@@ -21,238 +21,6 @@ file = "config/paxi/datapacks/gold-tier/pack.mcmeta"
 hash = "7e6b2660ec6f414fc00b9ba1d0e8a1f61b9a92907da9b59609ad0382aac77db2"
 
 [[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/desert_pyramid.json"
-hash = "95e1d87cd2b43c14d566af8f51cf3c8950812bb7039d56a842790bacd068750d"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/desert_well.json"
-hash = "cc920d7dbb7eaf752386a0649b143e750b756cb9a728f453d4093c4a20961193"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/ocean_ruin_cold.json"
-hash = "67fccad9d20ac0684f60b4900b6492e0177072c5a058c4203a16276262e97c53"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/archaeology/ocean_ruin_warm.json"
-hash = "a382b81478157fd911874a86025b9ad22381114c039bccd8aa7717ce20ed0389"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/blocks/copper_ore.json"
-hash = "b2ea32852b66dd736def8e1dab75a1831f4aa5844f655eb6c62411e838350e55"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/blocks/deepslate_copper_ore.json"
-hash = "108f18ab37356db82066e9a15cc6bca58c0fffba0de5070898a6c4a7dd581008"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/blocks/ender_chest.json"
-hash = "0083219d9efababea9c78e038cc511277dcedeb2bb4ad407148df53287bbcb15"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
-hash = "ef960bf2dd38f312c27f8f6bba8ff89445af13daac748ff8d4364ff08d676c93"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/ancient_city.json"
-hash = "c52e779e4ed5a5b98ab32ab4550f1ac89d9762161cc4cefb3fcb9b385442c585"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/ancient_city_ice_box.json"
-hash = "05b438f5751dd7d2417b97929f149faca583949fc01f8a5ca9b8d19295b89272"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_bridge.json"
-hash = "abdbe86b4af5c33cf5808afd00d648997f20426f29c65273fad6d5e4399c6b87"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_hoglin_stable.json"
-hash = "97f31796a2d439a619c4cc12ce101cced9aac7d1c80f435bb527b203fac2f6d6"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_other.json"
-hash = "312616b8baf15c08ade35419e0b9f03eebd4d35fd791351bb28004a7eba37943"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/bastion_treasure.json"
-hash = "a8347709ec39cda4768ea071abd22332ecc9a914cc6834975ad40cef476c1243"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/buried_treasure.json"
-hash = "afdf49a3f4dfe93f92f9cd895ee359c08554fd13ccbdbff7f249818ffade8a9a"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/desert_pyramid.json"
-hash = "5a0e2345f12ba154b48e6b18853a52130170caa72b1836e7dba106d80295b88d"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/end_city_treasure.json"
-hash = "6e2d0f0110397db948ffc9719316bd8db9dd56ff4532d0e8bf2f36f0f49e8ba3"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/jungle_temple.json"
-hash = "ac3ad91fb85bb235c0b343d10d7823dd69ba53224ed7592a5e1b5a7dc5c39b1d"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/nether_bridge.json"
-hash = "04c691b656e4a1eed4cce068ba1320a154e06de393d18c2c728f9e452441bd97"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/ruined_portal.json"
-hash = "4c394b96c275f93f43643375f8f817ecf9950317768c2fe4fa3d488e6f7c12b6"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/shipwreck_treasure.json"
-hash = "698c957f29fe3cc5a0f412f769e0be453cc8f0e09752a4ddf34234a9b0b32e88"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/simple_dungeon.json"
-hash = "0071eb47e8e2b658e7a6bee7b4bc81aef212611181d63f136ac4452c33224b0c"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/stronghold_corridor.json"
-hash = "0091081e355e677b1555574f23f26f012f75bf522f67eef714b13169c770d0a1"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/intersection.json"
-hash = "c2ef1d1658b02022117cb3809f64ebfe4d0fa7d136e612828c9e2dde26725a87"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json"
-hash = "2f4d0ccf8700b9383e97bdf8e6cb03a2465b6ae2a563ae644f4f51106f1199bd"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_rare.json"
-hash = "d806be6453f38679f62bf159de5db7696cb5f1782eb144408e64feca2511c037"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json"
-hash = "e47f4f57ef6aa30187533cb9422eea971438caf0f960dd6d6950c5bc190a03b4"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_armorer.json"
-hash = "492f45571c169f5f40423c294eac5ff060a709ab5c6b72256ccb6739a5feb2ca"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_cartographer.json"
-hash = "dc0eff769d157a8fbdbd2d9fa7f36f3f70492fb6ee989ccdd2b06fad26b78848"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_plains_house.json"
-hash = "471e715ab575f40ddb4e6cadac00de5406a0bfbf3e746a93655696f98e082524"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_savanna_house.json"
-hash = "ac89bfb0ab1ce1441d56e4b3c846e997f303389bf962fe458cbc841765c30d74"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_taiga_house.json"
-hash = "b4d8dd3e93feafe938edd8e0bb8123738505c705f064e9ea3768dd32c582e78b"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_temple.json"
-hash = "5aaffc92ebbe6f0500610574ab979a119c05307bf5da296361af8a30f4be6d4e"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_toolsmith.json"
-hash = "f84484912a8e7cf1a86475d0f5ea3630828ab4771cc96dfc36c480f666381520"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/village/village_weaponsmith.json"
-hash = "382938e311751a7cab39926fa260e544c9a9b74028290d12b4919024e010a466"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/chests/woodland_mansion.json"
-hash = "adb6fe36c8637963134c8e23b16d84b62c208c91c2e42cbb4f79723e25dcd171"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/husk.json"
-hash = "3724286c9fa75c1843b42b079083da1ed44764fe299ec3f274af1e5c1ed73470"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/iron_golem.json"
-hash = "a217a5e9c4cf25e1aae498d3668b1c68caf19d6e137003325d4befb53a96f4ad"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/zombie.json"
-hash = "8a4f2a2d21c2e382b5cceda79b0098b769866b622c396d6114e3199a50ae5512"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/entities/zombie_villager.json"
-hash = "52de9d271f0ded1997a6242ff2e0ffc0048c42ed28840db0f9d549372b25e7e4"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber.json"
-hash = "15038d8967a996faf2187445db66357c70538ade409ff736dd383e9328e44ecc"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber_melee.json"
-hash = "924c77193dff7c8823a4f7e2220b50f42f05f660696f35e2048902e6b453bfd9"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/minecraft/loot_table/equipment/trial_chamber_ranged.json"
-hash = "fcb147c658d6046ca4b03c0d19b74a7f9b376a0feca0f914808ba22ce8e3b3f1"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/mage/treasure.json"
-hash = "4e049b5f004e31d5afbcfc423c281ad01e61471d6f923cbaeee981a1cff5b191"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/spire/common.json"
-hash = "bf2864a9e0fcf3280c6d5ae830a7bf8b5e6d2142ccba27197b0a868f91562f7e"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/spire/rare.json"
-hash = "b4df9683c4e551482bd314943f8757c5a9091fb6e05c5a834498259b684d90c2"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/spire/treasure.json"
-hash = "6fbaee09d6c47a4d14c54350cb05d8454c31031de89ae57d601a4ede5a3ba8e6"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/desert/junk.json"
-hash = "06ae505463611c34d9f95264ca6bbafebec4de4f2790bf2253ed608e8a12f785"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/desert/smith/expert.json"
-hash = "8e1e49c5c059932e9b485a93a5c786c205be6d4a226c62577e6632e2b3471c5f"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/desert/smith/novice.json"
-hash = "a062edadc1e5cd4537231488771f6771fce8ecd1ce41909e560c4a7f43f5078d"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/fortified/junk.json"
-hash = "740a5280632a1b79c527a24441e55f2f5be78c44f77fff10dda58032944b8f75"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/fortified/smith/expert.json"
-hash = "73012f0215e1fe34d79fa904cbb467e0b30e1190a6a8bde951dfb09cba251160"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/fortified/smith/novice.json"
-hash = "2d6affb4741341b47e1bca3ee61526e44cf2c8b7e36ea0835dcb3a6311b5a885"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/loot_table/village/treasure/diamond.json"
-hash = "b053439fb84e1c630f000597dbadb8e912cc2a663c5c65a7bf20ba95bf19145c"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/tags/item/spire/common_tools.json"
-hash = "cdc441affdd16c83a0f2761ad56f03ddde5606d8461c96990ca46ff62268e056"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/tags/item/spire/diamond.json"
-hash = "ad177f57de2605ce24a33df426944c3cd0c266624a06450f8d045871688110aa"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/data/terralith/tags/item/spire/rare_tools.json"
-hash = "04c6ff7b0e794ceaec0207d4962f0a73c5db0e24fcffbd537c9cca8846e13fc3"
-
-[[files]]
-file = "config/paxi/datapacks/loot-rebalance/pack.mcmeta"
-hash = "ded2f52bfef9f2e8d7bafb3022981ed41185fa162d07107797ba6157dd8b208c"
-
-[[files]]
 file = "config/paxi/datapacks/ore-rebalance/data/bath/neoforge/biome_modifier/diamond_in_basalt_deltas.json"
 hash = "3b4372c55d31c18bfebe86eb8d68ab1631d0b3632eac35c94c0c98ed22a7ab50"
 
@@ -397,6 +165,22 @@ file = "kubejs/server_scripts/gamerules.js"
 hash = "97454116cfecd153c34e11315ef12b792a1d6ca5264d8e768a19262615be255d"
 
 [[files]]
+file = "kubejs/server_scripts/loot_iron_golem.js"
+hash = "27626c710d82b3640d55d8c40c0c8af19b6611d9106a6b9398b414320e026142"
+
+[[files]]
+file = "kubejs/server_scripts/loot_nether_netherite.js"
+hash = "0fca8ba72705f9a0c7c6e13acf79f676fd913785ee5369c6dd2a7447063b95a2"
+
+[[files]]
+file = "kubejs/server_scripts/loot_overworld_diamond.js"
+hash = "a169aea4df90922109d2113175e43a9bea91f0cad84c8167cba24bd20f5fb392"
+
+[[files]]
+file = "kubejs/server_scripts/loot_stronghold_trims.js"
+hash = "9456b9047f38c0b70d605c7efecaca6ef5ab92036c58257400bbece65b8fe90f"
+
+[[files]]
 file = "kubejs/server_scripts/no_crop_trample.js"
 hash = "ce074df6841eb9431fc35c0ff3f2de77076d2d08c2e42b2c235f4eec79be5a8a"
 
@@ -415,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
@@ -470,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/brainier-bees.pw.toml"
-hash = "cf67f01d257c4815590f6b6ed0351aed28eb907e2cc7a08d95c9f4d3eb76acc2"
+hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
 metafile = true
 
 [[files]]
@@ -515,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/countereds-settlement-roads.pw.toml"
-hash = "e1b88018e1e210f5bccb7de5429c5823f96b270375f3e6e4071726a4d3d835a5"
+hash = "5f254c3bffbb73f75906b1772982239abf8c77b7fa0473e5011cfd975d6553da"
 metafile = true
 
 [[files]]
@@ -585,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderpearl-backport.pw.toml"
-hash = "58413c553a40461ed11843ef58f625fa57d129dc9ae04209528e190c561c677c"
+hash = "fb70b7a422ac6c1e9bf11166ff531d6b7ddfb29869aa6748689cef7867d04d69"
 metafile = true
 
 [[files]]
@@ -699,6 +483,11 @@ hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "c667e9e12db041144f2e1a5e60ade71de95485122bb77ce62538f007f69a7bc9"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
@@ -745,17 +534,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
-hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
+hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
 
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
-metafile = true
-
-[[files]]
-file = "mods/rabbit-pathfinding-fix.pw.toml"
-hash = "010b560f16fe2464ba0adb88e813a49f95eaf188e3958047a707bb7cc82d8782"
 metafile = true
 
 [[files]]
@@ -785,12 +569,12 @@ metafile = true
 
 [[files]]
 file = "mods/separatedleaves.pw.toml"
-hash = "7f72447006a3ce61507f5feb03935581e2b1949253b4dd98cf8816f6722a9dfe"
+hash = "5a636f4c10ca7159a8c86515c46232b079acad919aba544623c25a4d644b850b"
 metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "0eae37c6976569147de9c331469dcc9b538160d063dd547030e7808b916a5f7a"
+hash = "916d78964442a58fedfa0880accb016cd01757ebfe68e7f497d0d95babd7ba48"
 metafile = true
 
 [[files]]

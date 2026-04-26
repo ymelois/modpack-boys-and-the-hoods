@@ -1,6 +1,6 @@
 name = "Enderpearl Backport"
 filename = "enderpearlbackport-1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tfgqelN2/versions/FYkfuZlB/enderpearlbackport-1.1.jar"
