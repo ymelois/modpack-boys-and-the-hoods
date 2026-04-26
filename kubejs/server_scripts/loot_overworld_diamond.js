@@ -8,7 +8,6 @@
 const OVERWORLD = /^(?!.*(bastion|nether|end)).+$/;
 
 LootJS.modifiers((event) => {
-    event.enableLogging();
     const m = event.addTableModifier(OVERWORLD);
 
     m.replaceLoot("minecraft:diamond", "minecraft:gold_ingot", true);

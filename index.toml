@@ -174,7 +174,7 @@ hash = "0fca8ba72705f9a0c7c6e13acf79f676fd913785ee5369c6dd2a7447063b95a2"
 
 [[files]]
 file = "kubejs/server_scripts/loot_overworld_diamond.js"
-hash = "a169aea4df90922109d2113175e43a9bea91f0cad84c8167cba24bd20f5fb392"
+hash = "86664ed59af53193be2b289ce89502e1deab434ea306e0963d5a9ceea0f1ab58"
 
 [[files]]
 file = "kubejs/server_scripts/loot_stronghold_trims.js"
