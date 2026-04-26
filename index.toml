@@ -409,6 +409,11 @@ file = "kubejs/server_scripts/unify_copper_nugget.js"
 hash = "7de9bd7ccd9601029ca6312f385c5293b73d7905328af709da3dfe8e23e949f5"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
@@ -469,6 +474,11 @@ hash = "cf67f01d257c4815590f6b6ed0351aed28eb907e2cc7a08d95c9f4d3eb76acc2"
 metafile = true
 
 [[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
 metafile = true
@@ -504,6 +514,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/countereds-settlement-roads.pw.toml"
+hash = "e1b88018e1e210f5bccb7de5429c5823f96b270375f3e6e4071726a4d3d835a5"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
@@ -529,8 +544,18 @@ hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
@@ -806,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
 metafile = true
 
 [[files]]
