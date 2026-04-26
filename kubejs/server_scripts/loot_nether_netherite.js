@@ -1,26 +1,35 @@
-// Netherite is now end-tier in this pack, so nether structures should not
-// drop netherite items. Replace netherite gear with diamond equivalents and
-// netherite raw materials with diamond raw items across every loot table
-// whose path mentions bastion or nether. The smithing template (used to
-// upgrade diamond -> netherite) stays out of nether loot.
+// Netherite is end-tier in this pack. Nether chests must not drop netherite,
+// but they get a small chance at diamond items, capped well below the vanilla
+// gold drops. One uniform extra pool is added to all bastion and nether tables.
 const NETHER = /^(?=.*(bastion|nether)).+$/;
 
 LootJS.modifiers((event) => {
     const m = event.addTableModifier(NETHER);
 
-    m.replaceLoot("minecraft:netherite_ingot", "minecraft:diamond", true);
-    m.replaceLoot("minecraft:netherite_scrap", "minecraft:diamond", true);
-    m.replaceLoot("minecraft:ancient_debris", "minecraft:diamond", true);
-
-    m.replaceLoot("minecraft:netherite_pickaxe", "minecraft:diamond_pickaxe", true);
-    m.replaceLoot("minecraft:netherite_shovel", "minecraft:diamond_shovel", true);
-    m.replaceLoot("minecraft:netherite_axe", "minecraft:diamond_axe", true);
-    m.replaceLoot("minecraft:netherite_sword", "minecraft:diamond_sword", true);
-    m.replaceLoot("minecraft:netherite_hoe", "minecraft:diamond_hoe", true);
-    m.replaceLoot("minecraft:netherite_helmet", "minecraft:diamond_helmet", true);
-    m.replaceLoot("minecraft:netherite_chestplate", "minecraft:diamond_chestplate", true);
-    m.replaceLoot("minecraft:netherite_leggings", "minecraft:diamond_leggings", true);
-    m.replaceLoot("minecraft:netherite_boots", "minecraft:diamond_boots", true);
-
+    m.removeLoot("minecraft:netherite_ingot");
+    m.removeLoot("minecraft:netherite_scrap");
+    m.removeLoot("minecraft:ancient_debris");
+    m.removeLoot("minecraft:netherite_pickaxe");
+    m.removeLoot("minecraft:netherite_shovel");
+    m.removeLoot("minecraft:netherite_axe");
+    m.removeLoot("minecraft:netherite_sword");
+    m.removeLoot("minecraft:netherite_hoe");
+    m.removeLoot("minecraft:netherite_helmet");
+    m.removeLoot("minecraft:netherite_chestplate");
+    m.removeLoot("minecraft:netherite_leggings");
+    m.removeLoot("minecraft:netherite_boots");
     m.removeLoot("minecraft:netherite_upgrade_smithing_template");
+
+    m.pool((pool) => {
+        pool.rolls(1);
+        pool.addEntry(LootEntry.of("minecraft:diamond").setCount([1, 2]).withWeight(4));
+        pool.addEntry(LootEntry.of("minecraft:diamond_sword").withWeight(1));
+        pool.addEntry(LootEntry.of("minecraft:diamond_axe").withWeight(1));
+        pool.addEntry(LootEntry.of("minecraft:diamond_pickaxe").withWeight(1));
+        pool.addEntry(LootEntry.of("minecraft:diamond_helmet").withWeight(1));
+        pool.addEntry(LootEntry.of("minecraft:diamond_chestplate").withWeight(1));
+        pool.addEntry(LootEntry.of("minecraft:diamond_leggings").withWeight(1));
+        pool.addEntry(LootEntry.of("minecraft:diamond_boots").withWeight(1));
+        pool.addEntry(LootEntry.empty().withWeight(20));
+    });
 });
