@@ -1,12 +1,12 @@
 name = "Boys and the Hoods"
 author = "Sehnryr"
-version = "0.1.3"
+version = "0.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "828431dd1743a7f5ccb6ceb6d4ea508fd8c312e168b173ac4e6411b158d1dc0c"
+hash = "92eb5170031640336882cffdf7ca78fd22f02cd3d90530bd0abd5785485d7bbe"
 
 [versions]
 minecraft = "1.21.1"

@@ -161,12 +161,16 @@ file = "kubejs/server_scripts/gamerules.js"
 hash = "97454116cfecd153c34e11315ef12b792a1d6ca5264d8e768a19262615be255d"
 
 [[files]]
+file = "kubejs/server_scripts/loot_end_netherite.js"
+hash = "3664b832e38a063da731fa9e7545df68ff4fc0ac3e56bdc0e4e9b6fd3d5950dd"
+
+[[files]]
 file = "kubejs/server_scripts/loot_iron_golem.js"
 hash = "27626c710d82b3640d55d8c40c0c8af19b6611d9106a6b9398b414320e026142"
 
 [[files]]
 file = "kubejs/server_scripts/loot_nether_netherite.js"
-hash = "0fca8ba72705f9a0c7c6e13acf79f676fd913785ee5369c6dd2a7447063b95a2"
+hash = "ae3b333a2fb10bce3d773a8c1896f665edbdd68d83e292b119c00d9b7308a2e9"
 
 [[files]]
 file = "kubejs/server_scripts/loot_overworld_diamond.js"
