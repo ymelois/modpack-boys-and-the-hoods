@@ -365,10 +365,6 @@ file = "config/paxi/resourcepacks/ore-rebalance/pack.mcmeta"
 hash = "58234dfa86245b8c202022affd5d27b3335033d8068f8f77320d7cbd49cf74b5"
 
 [[files]]
-file = "config/preferred-gamerules.properties"
-hash = "b967664074ccf22b83c34c202b032477facda074b756add3e3b6020c8b59f93f"
-
-[[files]]
 file = "defaultconfigs/ftbranks/ranks.snbt"
 hash = "b2a665d717f847be999bdf72075bf7ce94e849bad64afa2a07499c761e2e850e"
 
@@ -395,6 +391,10 @@ hash = "1b4644592af5285552eba082fdd158f08d3e312ad09ca1813ed2f53f2112bec4"
 [[files]]
 file = "kubejs/server_scripts/crushing_diamond_ore_fix.js"
 hash = "35cb9390d2e91852a97351156fcb1a1e4f74c0fbd9bd886865718bd494536d7f"
+
+[[files]]
+file = "kubejs/server_scripts/gamerules.js"
+hash = "97454116cfecd153c34e11315ef12b792a1d6ca5264d8e768a19262615be255d"
 
 [[files]]
 file = "kubejs/server_scripts/no_crop_trample.js"
@@ -726,11 +726,6 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
-metafile = true
-
-[[files]]
-file = "mods/preferred-gamerules.pw.toml"
-hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
 metafile = true
 
 [[files]]
