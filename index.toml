@@ -170,11 +170,11 @@ hash = "27626c710d82b3640d55d8c40c0c8af19b6611d9106a6b9398b414320e026142"
 
 [[files]]
 file = "kubejs/server_scripts/loot_nether_netherite.js"
-hash = "ae3b333a2fb10bce3d773a8c1896f665edbdd68d83e292b119c00d9b7308a2e9"
+hash = "78fc60bffd75729125cdcd470d1c713f6e929ca740674b642f6ad8c9aeb017ce"
 
 [[files]]
 file = "kubejs/server_scripts/loot_overworld_diamond.js"
-hash = "86664ed59af53193be2b289ce89502e1deab434ea306e0963d5a9ceea0f1ab58"
+hash = "b133e204075fff2c7311d846b909e148218267eb4aa15080bcd8776a87a869ff"
 
 [[files]]
 file = "kubejs/server_scripts/loot_stronghold_trims.js"

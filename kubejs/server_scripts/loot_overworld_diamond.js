@@ -1,14 +1,11 @@
-// Diamond is moved to the Nether in this pack, so overworld loot must not
-// reward diamond. Match any loot table whose path doesn't contain bastion,
-// nether or end. Covers vanilla chests, trial chamber equipment and modded
-// content like Terralith automatically.
-// Exclude any loot table whose path mentions bastion, nether or end. False
-// matches like enderman or ender_chest are harmless: the replaceLoot rules
-// below are no-ops on tables that don't contain diamond.
-const OVERWORLD = /^(?!.*(bastion|nether|end)).+$/;
+// Diamond is moved to the Nether in this pack, so overworld chest loot must
+// not reward diamond. Anchor on `chests/` so block-mining tables (e.g.
+// blocks/diamond_ore) and entity tables are not touched. Any namespace is
+// matched, covering Terralith and other modded chests too.
+const OVERWORLD_CHESTS = /^[^:]+:chests\/(?!.*(bastion|nether|end)).+$/;
 
 LootJS.modifiers((event) => {
-    const m = event.addTableModifier(OVERWORLD);
+    const m = event.addTableModifier(OVERWORLD_CHESTS);
 
     m.replaceLoot("minecraft:diamond", "minecraft:gold_ingot", true);
     m.replaceLoot("minecraft:diamond_ore", "minecraft:gold_ore", true);
