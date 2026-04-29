@@ -660,8 +660,18 @@ hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+metafile = true
+
+[[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "113988ed5fa0ab2b2fbe56041852290579abc57db5f828a4c570acd4be1204e6"
+metafile = true
+
+[[files]]
+file = "mods/visible-traders.pw.toml"
+hash = "bbcb54d5fbdd84fbd3ff55557c754c820b07d97ca33fa3dfc632d954d602ee46"
 metafile = true
 
 [[files]]
