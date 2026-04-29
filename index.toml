@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/experimentalist.json"
+hash = "f0f29f863037ca080c144f70104551d7adb7075a249e1be7df293cfadd046948"
+
+[[files]]
 file = "config/ftblibrary-client.snbt"
 hash = "354510208d97ce0322967bd183df0eb2a1acb45ef2055e4d94ed2f3faec9aada"
 
@@ -149,6 +153,10 @@ file = "kubejs/client_scripts/hide_solonion_items.js"
 hash = "02b677976d9e300a9a385b0d7d1e4aadc37ffa440f4e618a632bbc1b1edb0a50"
 
 [[files]]
+file = "kubejs/server_scripts/bundle_recipe.js"
+hash = "68326c118486dc8c2104aab2128e6cb28e42018152d64e19f6735a99ed0574d2"
+
+[[files]]
 file = "kubejs/server_scripts/cc_recipes.js"
 hash = "9ca12f4f4d3ddb2b74caf1a563a79edc293bc0a24aeb44e973326deecf52aa05"
 
@@ -262,11 +270,6 @@ hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
 metafile = true
 
 [[files]]
-file = "mods/bundle-recipe.pw.toml"
-hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
-metafile = true
-
-[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
 metafile = true
@@ -364,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
+metafile = true
+
+[[files]]
+file = "mods/experimentalist.pw.toml"
+hash = "ce375f0e149c899492b2c577aec39876a4c363d1d504871dc5e0f60f9492b8c6"
 metafile = true
 
 [[files]]
