@@ -13,14 +13,6 @@ file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
-file = "config/paxi/datapacks/gold-tier/data/minecraft/tags/block/incorrect_for_gold_tool.json"
-hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
-
-[[files]]
-file = "config/paxi/datapacks/gold-tier/pack.mcmeta"
-hash = "7e6b2660ec6f414fc00b9ba1d0e8a1f61b9a92907da9b59609ad0382aac77db2"
-
-[[files]]
 file = "config/paxi/datapacks/ore-rebalance/data/bath/neoforge/biome_modifier/diamond_in_basalt_deltas.json"
 hash = "3b4372c55d31c18bfebe86eb8d68ab1631d0b3632eac35c94c0c98ed22a7ab50"
 
@@ -263,6 +255,10 @@ hash = "2dafe0c521d946ab4c7ad74de870259e83eedb6334a24c59455529f9936bfafe"
 [[files]]
 file = "kubejs/server_scripts/unify_copper_nugget.js"
 hash = "111f88d4788c0efeaa81b7b8fe0ed29fb85f5a0450e26697692bc947c6a032e3"
+
+[[files]]
+file = "kubejs/startup_scripts/rebalance_gold_gear.js"
+hash = "d44279b197e154c20e32a60c8c27409f9d0ed3590b95587e2d25e9eb2ade3074"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
