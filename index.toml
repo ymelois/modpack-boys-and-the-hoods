@@ -153,20 +153,16 @@ file = "kubejs/client_scripts/hide_solonion_items.js"
 hash = "02b677976d9e300a9a385b0d7d1e4aadc37ffa440f4e618a632bbc1b1edb0a50"
 
 [[files]]
-file = "kubejs/server_scripts/bundle_recipe.js"
-hash = "68326c118486dc8c2104aab2128e6cb28e42018152d64e19f6735a99ed0574d2"
-
-[[files]]
 file = "kubejs/server_scripts/cc_recipes.js"
 hash = "9ca12f4f4d3ddb2b74caf1a563a79edc293bc0a24aeb44e973326deecf52aa05"
 
 [[files]]
-file = "kubejs/server_scripts/copper_carrot_recipe.js"
-hash = "1b4644592af5285552eba082fdd158f08d3e312ad09ca1813ed2f53f2112bec4"
-
-[[files]]
 file = "kubejs/server_scripts/crushing_diamond_ore_fix.js"
 hash = "35cb9390d2e91852a97351156fcb1a1e4f74c0fbd9bd886865718bd494536d7f"
+
+[[files]]
+file = "kubejs/server_scripts/disable_crop_trample.js"
+hash = "ce074df6841eb9431fc35c0ff3f2de77076d2d08c2e42b2c235f4eec79be5a8a"
 
 [[files]]
 file = "kubejs/server_scripts/gamerules.js"
@@ -193,16 +189,76 @@ file = "kubejs/server_scripts/loot_stronghold_trims.js"
 hash = "9456b9047f38c0b70d605c7efecaca6ef5ab92036c58257400bbece65b8fe90f"
 
 [[files]]
-file = "kubejs/server_scripts/no_crop_trample.js"
-hash = "ce074df6841eb9431fc35c0ff3f2de77076d2d08c2e42b2c235f4eec79be5a8a"
+file = "kubejs/server_scripts/recipe_amethyst_block.js"
+hash = "274dfa2c8b6b7ddefec2d1f150286dc637463ec6670989a2ee582036e5d0fbde"
 
 [[files]]
-file = "kubejs/server_scripts/solonion_recipes.js"
+file = "kubejs/server_scripts/recipe_asurine.js"
+hash = "f5321ec7aa4250be5de123e6a9d3becb790fa52deb2159df815c7958bc29198e"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_bundle.js"
+hash = "68326c118486dc8c2104aab2128e6cb28e42018152d64e19f6735a99ed0574d2"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_cinder_flour.js"
+hash = "d2b9ae0aa39884c776b1573ecb56755f11060a201e6b1f4f62302316df9c3cba"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_cobbled_deepslate.js"
+hash = "b2cd0642680909967d936b2ba62e906226f8e1356705bf095a8aa084ccbe7055"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_copper_carrot.js"
+hash = "1b4644592af5285552eba082fdd158f08d3e312ad09ca1813ed2f53f2112bec4"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_crimsite.js"
+hash = "301ebc74abf7666ea937d9d3a783f6691b2dba486cb34ed8e64bfa2aec061db4"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_crying_obsidian.js"
+hash = "8921f80b82eba375f8487bf4bd825c21c4173888c57750811866a72b2517cd2d"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_end_stone.js"
+hash = "ee924e847918825bb5ea5e799f9d7d9de6b85919a4128d9d98d32b6a5b88dbf4"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_flesh_to_leather.js"
+hash = "0d6289cc662fd90280e289cbe0a2a4e5f691d8bffe4720fbe72afbe59d8aa0ff"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_netherrack.js"
+hash = "011b217f3a6e530d50b666d6fbedc62b4f342be5f3f1e9f8c3c47c21484c685b"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_ochrum.js"
+hash = "51f0683b34a6f382611c79138f7e71b09ca970e1388cc276a7c8ffd7ed8391da"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_rooted_dirt.js"
+hash = "1c3e8925fcc5dc6ca86a0942f40f9fee6986b0620e9b719017b3fc30c724d9a3"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_tuff.js"
+hash = "b1ad34480fb75186bd17b4ac8fefdd691d5f72163c24ef2ed68ab7311f1a6eb8"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_veridium.js"
+hash = "7675c27eb9ab9ee60054e5e6b502417b662680324f8f1325f98706916965cf6b"
+
+[[files]]
+file = "kubejs/server_scripts/remove_lunchbox.js"
 hash = "ce0014f1b2426e0bc18f8226e9208e3e0465405486108ff8c30697d73c0e93f2"
 
 [[files]]
+file = "kubejs/server_scripts/remove_quark_recipes.js"
+hash = "2dafe0c521d946ab4c7ad74de870259e83eedb6334a24c59455529f9936bfafe"
+
+[[files]]
 file = "kubejs/server_scripts/unify_copper_nugget.js"
-hash = "7de9bd7ccd9601029ca6312f385c5293b73d7905328af709da3dfe8e23e949f5"
+hash = "111f88d4788c0efeaa81b7b8fe0ed29fb85f5a0450e26697692bc947c6a032e3"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
