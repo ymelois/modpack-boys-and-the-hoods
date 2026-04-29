@@ -258,7 +258,7 @@ hash = "111f88d4788c0efeaa81b7b8fe0ed29fb85f5a0450e26697692bc947c6a032e3"
 
 [[files]]
 file = "kubejs/startup_scripts/rebalance_gold_gear.js"
-hash = "d44279b197e154c20e32a60c8c27409f9d0ed3590b95587e2d25e9eb2ade3074"
+hash = "fc93711eb466bfd1e17cd9c41d5a9a5f010cc6a40e70058369f220307cf06551"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
