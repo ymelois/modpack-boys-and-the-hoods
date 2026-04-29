@@ -1,4 +1,7 @@
 ServerEvents.recipes((event) => {
+    event.remove("create:crushing/tuff_recycling");
+    event.remove("create:crushing/tuff");
+
     event.custom({
         type: "create:compacting",
         heat_requirement: "heated",
