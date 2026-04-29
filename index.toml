@@ -166,23 +166,23 @@ hash = "ce074df6841eb9431fc35c0ff3f2de77076d2d08c2e42b2c235f4eec79be5a8a"
 
 [[files]]
 file = "kubejs/server_scripts/gamerules.js"
-hash = "97454116cfecd153c34e11315ef12b792a1d6ca5264d8e768a19262615be255d"
-
-[[files]]
-file = "kubejs/server_scripts/loot_end_netherite.js"
-hash = "3664b832e38a063da731fa9e7545df68ff4fc0ac3e56bdc0e4e9b6fd3d5950dd"
+hash = "7495f80a2ffa4deeda7590c6231e35b0042a39929da12d58007c64b6b11f069a"
 
 [[files]]
 file = "kubejs/server_scripts/loot_iron_golem.js"
 hash = "27626c710d82b3640d55d8c40c0c8af19b6611d9106a6b9398b414320e026142"
 
 [[files]]
-file = "kubejs/server_scripts/loot_nether_netherite.js"
-hash = "78fc60bffd75729125cdcd470d1c713f6e929ca740674b642f6ad8c9aeb017ce"
+file = "kubejs/server_scripts/loot_rebalance_end.js"
+hash = "e77b194ba23ed43044d95dc8a94df8792b8b9231624e9ddd3024feaefcfad234"
 
 [[files]]
-file = "kubejs/server_scripts/loot_overworld_diamond.js"
-hash = "b133e204075fff2c7311d846b909e148218267eb4aa15080bcd8776a87a869ff"
+file = "kubejs/server_scripts/loot_rebalance_nether.js"
+hash = "92efc8d03d97d71a1355fd3def350c0743b46718070b3dc12d71cf6c9dfd5e83"
+
+[[files]]
+file = "kubejs/server_scripts/loot_rebalance_overworld.js"
+hash = "d05d00c8117d8a52ae9175be6931342b540b3b1245d8abfea4970fbe50095494"
 
 [[files]]
 file = "kubejs/server_scripts/loot_stronghold_trims.js"
@@ -229,6 +229,10 @@ file = "kubejs/server_scripts/recipe_flesh_to_leather.js"
 hash = "0d6289cc662fd90280e289cbe0a2a4e5f691d8bffe4720fbe72afbe59d8aa0ff"
 
 [[files]]
+file = "kubejs/server_scripts/recipe_lodestone.js"
+hash = "4e40a74d53ef5d5033946730ba7b90b3a9c56fc7611b0ae1f349bebc747db495"
+
+[[files]]
 file = "kubejs/server_scripts/recipe_netherrack.js"
 hash = "011b217f3a6e530d50b666d6fbedc62b4f342be5f3f1e9f8c3c47c21484c685b"
 
@@ -242,7 +246,7 @@ hash = "1c3e8925fcc5dc6ca86a0942f40f9fee6986b0620e9b719017b3fc30c724d9a3"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_tuff.js"
-hash = "b1ad34480fb75186bd17b4ac8fefdd691d5f72163c24ef2ed68ab7311f1a6eb8"
+hash = "10e334c2a75e79546130e27ce8fc0bfc33398e777b7d64c680f61ec53abcc8b3"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_veridium.js"
