@@ -13,118 +13,6 @@ file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/neoforge/biome_modifier/diamond_in_basalt_deltas.json"
-hash = "3b4372c55d31c18bfebe86eb8d68ab1631d0b3632eac35c94c0c98ed22a7ab50"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/neoforge/biome_modifier/diamond_in_nether.json"
-hash = "b9441eed0bec5352d014aa54fd186f5cffa3f2900af719534100d47789a35b60"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/neoforge/biome_modifier/netherite_in_end.json"
-hash = "6922d79bce2edf40e3ad7e359fcae49b90fcf542125ad1243fc882569823cfaa"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/configured_feature/ore_ancient_debris_end.json"
-hash = "4e3f4967f4af613727c9cdae97df6a7b12e461d1c2535454cc1d9c8a258d3e0c"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/configured_feature/ore_diamond_blackstone.json"
-hash = "c5137ba791643a178415faf3bc2f05b7899a0e9a0ad106a667526ab309997912"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/configured_feature/ore_diamond_nether_buried.json"
-hash = "8d26a7d0e952557e02598a2d37751df55f5a82bf0a423d65a697be8c79d1d761"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/configured_feature/ore_diamond_nether_large.json"
-hash = "f8b46d3779c44d3efda3bcbd7316171a54264899b36e2d5c89b951e87a40d277"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/configured_feature/ore_diamond_nether_small.json"
-hash = "8d26a7d0e952557e02598a2d37751df55f5a82bf0a423d65a697be8c79d1d761"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/placed_feature/ore_ancient_debris_end.json"
-hash = "13bf8a35f94f87544a6d38ff569a3af37d1dbcd02e86e03b52974d4ca0db8844"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/placed_feature/ore_diamond_blackstone.json"
-hash = "ec983f5cc2a091210bd11f28bf255f64dad4135b2c823ed69edc99d07915d786"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/placed_feature/ore_diamond_nether.json"
-hash = "b59ba83717756924eae0c4ca1eb8f449272cd67c338e3588ebeb01be4d697e5c"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/placed_feature/ore_diamond_nether_buried.json"
-hash = "9e7f4a235cbf9c24474924579bdd6d0cfce1142aaeb49f7064fe445e6dc0359b"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/bath/worldgen/placed_feature/ore_diamond_nether_large.json"
-hash = "5d6fed71da8691adeee284680ed0ae40b8a977aa5f7bc92a7a28ba39b2c3f360"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
-hash = "80e578b5241bb487ddb9f13237ca61f662c69dbb2e1b475b0ae9f34881842948"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/minecraft/worldgen/placed_feature/ore_debris_small.json"
-hash = "e5fb09abf750590a0e656d0da36e1dcb7594f15a282776fb29209ebc16fbcb81"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/minecraft/worldgen/placed_feature/ore_diamond.json"
-hash = "64c60a08d4a06e0d6c08b710c6ad64270b2504aa9b8b5a531a2fc1d43677b7cf"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
-hash = "b196c4c4072f36465701dd2ce5792a4eebd14b885c01d874e856fc2090d98561"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
-hash = "f4ebd80c4ee7854dc1d13cc65ffe04565aca079bcb35ebc53b58e37f75626f32"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
-hash = "b23449f8893ae0821ef82d728be6031be204096d8ea3976d795f545bb5aa3c11"
-
-[[files]]
-file = "config/paxi/datapacks/ore-rebalance/pack.mcmeta"
-hash = "fa8c4147e2b20cf218ea2e78a0c00ec5835e9e0cfa8a7efea3e247bab5478bfc"
-
-[[files]]
-file = "config/paxi/datapacks/phantom-rebalance/data/bath/neoforge/biome_modifier/phantoms_in_end.json"
-hash = "ffa8aac8dc60dc80c3cc55a08fbfd80c79d782e6f9defd22025b72b647bad1e1"
-
-[[files]]
-file = "config/paxi/datapacks/phantom-rebalance/pack.mcmeta"
-hash = "24f330808c658368ec75dfe2ab3f4533ddd6a97032066b8ba7e570555fe083f0"
-
-[[files]]
-file = "config/paxi/resourcepacks/ore-rebalance/assets/minecraft/lang/en_us.json"
-hash = "abc61d5b0bb2444d00cc83f54c3577aa65d66c3791b4e4973f74bb5439154c92"
-
-[[files]]
-file = "config/paxi/resourcepacks/ore-rebalance/assets/minecraft/models/block/deepslate_diamond_ore.json"
-hash = "51c94cc9ca15a445b67ed3f033e433eb67d62edc5ce42aaf86af8f48ced52e6e"
-
-[[files]]
-file = "config/paxi/resourcepacks/ore-rebalance/assets/minecraft/textures/block/deepslate_diamond_ore.png"
-hash = "8960a56bee834389313145755fee25e8800d1b91cc7a01fb332664d05fd82656"
-
-[[files]]
-file = "config/paxi/resourcepacks/ore-rebalance/assets/minecraft/textures/block/deepslate_diamond_ore_top.png"
-hash = "cbed0e9dd5c5540d34084930f576b186a5308e30f6768827e79009617b9f9abb"
-
-[[files]]
-file = "config/paxi/resourcepacks/ore-rebalance/assets/minecraft/textures/block/diamond_ore.png"
-hash = "a525d0e695dc04ee75baab28ca88cf8f440b538fd3df9b726da769b8bad9e808"
-
-[[files]]
-file = "config/paxi/resourcepacks/ore-rebalance/pack.mcmeta"
-hash = "58234dfa86245b8c202022affd5d27b3335033d8068f8f77320d7cbd49cf74b5"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "4e3c476a33e4a46ce84b976c1186411c80c0a55e2565af57ae2a045160aa4769"
 
@@ -137,12 +25,112 @@ file = "icon.png"
 hash = "3b92a538a012d90a82eb4a741ef813c8128e29d60553b839f662dea2d763fcfd"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "abc61d5b0bb2444d00cc83f54c3577aa65d66c3791b4e4973f74bb5439154c92"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/deepslate_diamond_ore.json"
+hash = "51c94cc9ca15a445b67ed3f033e433eb67d62edc5ce42aaf86af8f48ced52e6e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/deepslate_diamond_ore.png"
+hash = "8960a56bee834389313145755fee25e8800d1b91cc7a01fb332664d05fd82656"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/deepslate_diamond_ore_top.png"
+hash = "cbed0e9dd5c5540d34084930f576b186a5308e30f6768827e79009617b9f9abb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/diamond_ore.png"
+hash = "a525d0e695dc04ee75baab28ca88cf8f440b538fd3df9b726da769b8bad9e808"
+
+[[files]]
 file = "kubejs/client_scripts/hide_copper_nugget.js"
 hash = "528e52a37a2794c14df06b23ce77188e58902d0fb8a63eeb405f65aea37b66ac"
 
 [[files]]
 file = "kubejs/client_scripts/hide_solonion_items.js"
 hash = "02b677976d9e300a9a385b0d7d1e4aadc37ffa440f4e618a632bbc1b1edb0a50"
+
+[[files]]
+file = "kubejs/data/bath/neoforge/biome_modifier/diamond_in_basalt_deltas.json"
+hash = "3b4372c55d31c18bfebe86eb8d68ab1631d0b3632eac35c94c0c98ed22a7ab50"
+
+[[files]]
+file = "kubejs/data/bath/neoforge/biome_modifier/diamond_in_nether.json"
+hash = "b9441eed0bec5352d014aa54fd186f5cffa3f2900af719534100d47789a35b60"
+
+[[files]]
+file = "kubejs/data/bath/neoforge/biome_modifier/netherite_in_end.json"
+hash = "6922d79bce2edf40e3ad7e359fcae49b90fcf542125ad1243fc882569823cfaa"
+
+[[files]]
+file = "kubejs/data/bath/neoforge/biome_modifier/phantoms_in_end.json"
+hash = "ffa8aac8dc60dc80c3cc55a08fbfd80c79d782e6f9defd22025b72b647bad1e1"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/configured_feature/ore_ancient_debris_end.json"
+hash = "4e3f4967f4af613727c9cdae97df6a7b12e461d1c2535454cc1d9c8a258d3e0c"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/configured_feature/ore_diamond_blackstone.json"
+hash = "c5137ba791643a178415faf3bc2f05b7899a0e9a0ad106a667526ab309997912"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/configured_feature/ore_diamond_nether_buried.json"
+hash = "8d26a7d0e952557e02598a2d37751df55f5a82bf0a423d65a697be8c79d1d761"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/configured_feature/ore_diamond_nether_large.json"
+hash = "f8b46d3779c44d3efda3bcbd7316171a54264899b36e2d5c89b951e87a40d277"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/configured_feature/ore_diamond_nether_small.json"
+hash = "8d26a7d0e952557e02598a2d37751df55f5a82bf0a423d65a697be8c79d1d761"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/placed_feature/ore_ancient_debris_end.json"
+hash = "13bf8a35f94f87544a6d38ff569a3af37d1dbcd02e86e03b52974d4ca0db8844"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/placed_feature/ore_diamond_blackstone.json"
+hash = "ec983f5cc2a091210bd11f28bf255f64dad4135b2c823ed69edc99d07915d786"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/placed_feature/ore_diamond_nether.json"
+hash = "b59ba83717756924eae0c4ca1eb8f449272cd67c338e3588ebeb01be4d697e5c"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/placed_feature/ore_diamond_nether_buried.json"
+hash = "9e7f4a235cbf9c24474924579bdd6d0cfce1142aaeb49f7064fe445e6dc0359b"
+
+[[files]]
+file = "kubejs/data/bath/worldgen/placed_feature/ore_diamond_nether_large.json"
+hash = "5d6fed71da8691adeee284680ed0ae40b8a977aa5f7bc92a7a28ba39b2c3f360"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
+hash = "80e578b5241bb487ddb9f13237ca61f662c69dbb2e1b475b0ae9f34881842948"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_debris_small.json"
+hash = "e5fb09abf750590a0e656d0da36e1dcb7594f15a282776fb29209ebc16fbcb81"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "64c60a08d4a06e0d6c08b710c6ad64270b2504aa9b8b5a531a2fc1d43677b7cf"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "b196c4c4072f36465701dd2ce5792a4eebd14b885c01d874e856fc2090d98561"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "f4ebd80c4ee7854dc1d13cc65ffe04565aca079bcb35ebc53b58e37f75626f32"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
+hash = "b23449f8893ae0821ef82d728be6031be204096d8ea3976d795f545bb5aa3c11"
 
 [[files]]
 file = "kubejs/server_scripts/cc_recipes.js"
@@ -571,11 +559,6 @@ hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
@@ -678,11 +661,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
