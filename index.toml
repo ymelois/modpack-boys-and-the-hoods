@@ -259,11 +259,6 @@ hash = "71ba1d6fa307a069f129f98b891024abd267e252a52e742c5f89edfbe3d4b7eb"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
-metafile = true
-
-[[files]]
 file = "mods/amplified-nether-height.pw.toml"
 hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
 metafile = true
