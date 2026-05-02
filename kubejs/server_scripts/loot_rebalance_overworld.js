@@ -48,7 +48,7 @@ LootJS.lootTables((event) => {
     );
 
     trial_chambers.replaceItem("minecraft:diamond", "minecraft:gold_ingot");
-    trial_chambers.replaceItem("minecraft:diamond", "minecraft:gold_block");
+    trial_chambers.replaceItem("minecraft:diamond_block", "minecraft:gold_block");
     trial_chambers.replaceItem("minecraft:diamond_pickaxe", "minecraft:golden_pickaxe");
     trial_chambers.replaceItem("minecraft:diamond_axe", "minecraft:golden_axe");
     trial_chambers.replaceItem("minecraft:diamond_chestplate", "minecraft:golden_chestplate");

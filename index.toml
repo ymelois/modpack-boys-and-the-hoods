@@ -162,7 +162,7 @@ hash = "92efc8d03d97d71a1355fd3def350c0743b46718070b3dc12d71cf6c9dfd5e83"
 
 [[files]]
 file = "kubejs/server_scripts/loot_rebalance_overworld.js"
-hash = "d05d00c8117d8a52ae9175be6931342b540b3b1245d8abfea4970fbe50095494"
+hash = "7b8af530f5aaac16bcbef4dd3747b34e4bcdd97412b6ff6634d716d4e6fdbc37"
 
 [[files]]
 file = "kubejs/server_scripts/loot_stronghold_trims.js"
